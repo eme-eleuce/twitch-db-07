@@ -90,7 +90,7 @@ const handleNav = () => {
                   <Menu.Item>
                     {({ active }) => (
                       <a
-                        href='/#review'
+                        
                         className={classNames(
                           active
                             ? 'bg-gray-500 text-gray-100'

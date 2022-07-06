@@ -9,6 +9,9 @@ module.exports = {
     domains: [
         'robohash.org',
         'static-cdn.jtvnw.net',
+        'i.pinimg.com',
+        'pbs.twimg.com',
+        
     ]
   }
 }

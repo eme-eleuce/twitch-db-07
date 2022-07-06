@@ -33,7 +33,7 @@ const MenuL = () => {
 
             <div key={index} className='mt-1 inline-flex py-[2px]  items-center w-full lg:hover:bg-gray-400/50  cursor-pointer'> 
                  <div >
-                    <Image src={item.avatar} width='50' height='50' className='rounded-full' />
+                    <Image src={item.avatar} width='50' height='50' className='rounded-full' alt='/'/>
                  </div>
                  <div className='hidden xl:flex justify-between w-full ml-2'>
                     <div>
@@ -52,7 +52,7 @@ const MenuL = () => {
 
               <div key={index} className=' mt-1 inline-flex py-[2px] items-center w-full   lg:hover:bg-gray-400/50 cursor-pointer'>
                      <div>
-                    <Image src={item.avatar} width='50' height='50' className='rounded-full'/>
+                    <Image src={item.avatar} width='50' height='50' className='rounded-full' alt='/'/>
                  </div>
                  <div className='hidden xl:flex justify-between w-full ml-2'>
                     <div>

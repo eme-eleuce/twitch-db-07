@@ -13,12 +13,12 @@ const LchannelsItem = ({img, profile_img, title, user, game, views}) => {
            <div className='relative inline-block  group '>
            
            <div className='block rounded-lg'>
-           <Image src={img} className='rounded-lg object-fill'/>
+           <Image src={img} className='rounded-lg object-fill' alt='/' />
            </div>
            </div>
             <div className='flex pt-2'>
                 <div className='pr-2'>
-                    <Image alt='/' src={profile_img} width='60' height='60' className='rounded-full'/>
+                    <Image  src={profile_img} width='60' height='60' className='rounded-full' alt='/'/>
                     <div className='px-3 content-center bg-red-600 mx-1'>
                         <p>{views}K</p>
                     </div>
