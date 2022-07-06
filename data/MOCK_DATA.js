@@ -1,0 +1,17 @@
+export const rec_channels = [{"id":1,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/c7a4c96e-a434-4dfa-9bcf-6190995dd536-profile_image-70x70.png","username":"aceu","game_name":"Valorant","rank":85,"ip_address":"169.182.194.218"},
+{"id":2,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/99aa4739-21d6-40af-86ae-4b4d3457fce4-profile_image-70x70.png","username":"summit1g","game_name":"DayZ","rank":81,"ip_address":"66.136.226.122"},
+{"id":3,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/a7f4e111-e3fb-4847-8235-02e26e9d7f99-profile_image-70x70.png","username":"lindsan","game_name":"League of Legends","rank":35,"ip_address":"44.201.69.224"},
+{"id":4,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/50e4e7b2-ae1c-43dd-ae3a-243de06a9034-profile_image-70x70.png","username":"k3soju","game_name":"TeamFight Tactics","rank":11,"ip_address":"55.12.195.34"},
+{"id":5,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/18f3af06-2122-45ed-aad5-dcbedfbb1130-profile_image-70x70.png","username":"gerardromero","game_name":"Sports","rank":94,"ip_address":"79.164.200.85"},
+{"id":6,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/794e906d-64d7-41ab-bb89-8fb159e4124b-profile_image-70x70.png","username":"k4sen","game_name":"Rust","rank":56,"ip_address":"148.139.75.184"},
+{"id":7,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/ec898e4a-e0df-4dc0-a99d-7540c6dbe1e8-profile_image-70x70.png","username":"auronplay","game_name":"Just Chatting","rank":21,"ip_address":"85.110.154.49"},
+{"id":8,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/7e046372-057a-427d-8d95-2d1ab551d742-profile_image-70x70.png","username":"jackeyy","game_name":"Grand Theft Auto","rank":52,"ip_address":"158.146.224.235"},
+{"id":9,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/04c65db8-ef62-4fb5-8cff-09f0521de151-profile_image-70x70.png","username":"thebausffs","game_name":"League Of Legends","rank":75,"ip_address":"164.172.216.87"},
+{"id":10,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/414adc96-2ca3-478d-8002-b5d73a4ed7e3-profile_image-70x70.png","username":"whoplohoyp","game_name":"Just Chatting","rank":54,"ip_address":"68.83.50.132"}]
+
+export const top_channels = [{"id":1,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/320d61dc-5202-44ad-a203-8a8d7a9cbfa9-profile_image-70x70.png","username":"chess","game_name":"Chess","rank":85,"ip_address":"169.182.194.218"},
+{"id":2,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/521d85de-7f26-4bad-8dbe-5800820423a7-profile_image-70x70.png","username":"dreamleague","game_name":"Dota 2","rank":81,"ip_address":"66.136.226.122"},
+{"id":3,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/8dcaf96d-68ee-4fc6-bfdc-fdfc564e134a-profile_image-70x70.png","username":"lvndmark","game_name":"Escape from Tarkov","rank":35,"ip_address":"44.201.69.224"},
+{"id":4,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/ec898e4a-e0df-4dc0-a99d-7540c6dbe1e8-profile_image-70x70.png","username":"auronplay","game_name":"Fall Guys","rank":10,"ip_address":"55.12.195.34"},
+{"id":5,"avatar":"https://static-cdn.jtvnw.net/jtv_user_pictures/ec898e4a-e0df-4dc0-a99d-7540c6dbe1e8-profile_image-70x70.png","username":"auronplay","game_name":"Just Chatting","rank":94,"ip_address":"79.164.200.85"},
+]
