@@ -54,7 +54,7 @@ const Reseñas = () => {
                             <p className="text-gray-400">smithat87</p>
                         </div>
                     </div>
-                    <blockquote className="mt-8 text-lg pb-1 text-[#E9E9EB] font-medium">Untrustable, can't keep connected, keep getting bumbed off and frozen, too many pop ups. Not satisfying chat not user friendly and part of the suppression of free speech,  what a shame!</blockquote>
+                    <blockquote className="mt-8 text-lg pb-1 text-[#E9E9EB] font-medium">Untrustable, can&apos;t keep connected, keep getting bumbed off and frozen, too many pop ups. Not satisfying chat not user friendly and part of the suppression of free speech,  what a shame!</blockquote>
                 </div>
             </div>
         </div>
