@@ -5,7 +5,7 @@
 
 html {
 
-    @apply text-white  scroll-smooth  bg-gradient-to-r from-fuchsia-600 to-pink-700 animate-text
+    @apply text-white  scroll-smooth  bg-gradient-to-r from-fuchsia-600 to-pink-700 
 }
 
 @layer utilities {
